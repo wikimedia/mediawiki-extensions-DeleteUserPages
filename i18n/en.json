@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ryan Schmidt"
+		]
+	},
+	"deleteuserpages-desc": "Let users delete their own user pages",
+	"right-delete-rootuserpages": "Can delete own user and user talk page",
+	"right-delete-usersubpages": "Can delete subpages of their own user page"
+}

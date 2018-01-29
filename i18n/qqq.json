@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ryan Schmidt"
+		]
+	},
+	"deleteuserpages-desc": "{{desc|name=Delete User Pages|url=https://www.mediawiki.org/wiki/Extension:DeleteUserPages}}",
+	"right-delete-rootuserpages": "{{doc-right|delete-rootuserpages}}",
+	"right-delete-usersubpages": "{{doc-right|delete-usersubpages}}"
+}
