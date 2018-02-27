@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gomoko"
+		]
+	},
+	"deleteuserpages-desc": "Laisser les utilisateurs supprimer leurs propres pages utilisateur",
+	"right-delete-rootuserpages": "Pouvoir supprimer ses propres pages utilisateur et discussion utilisateur",
+	"right-delete-usersubpages": "Pouvoir supprimer les sous-pages de sa propre page utilisateur"
+}

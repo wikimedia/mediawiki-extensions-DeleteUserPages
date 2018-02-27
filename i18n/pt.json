@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hamilton Abreu"
+		]
+	},
+	"deleteuserpages-desc": "Permitir que os utilizadores eliminem a sua própria página de utilizador",
+	"right-delete-rootuserpages": "Pode eliminar as suas próprias páginas de utilizador e de discussão de utilizador",
+	"right-delete-usersubpages": "Pode eliminar subpáginas da sua própria página de utilizador"
+}
