@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Guycn2"
+		]
+	},
+	"deleteuserpages-desc": "מתן אפשרות למשתמשים למחוק את דף השיחה של עצמם",
+	"right-delete-rootuserpages": "יכולת למחוק את דף המשתמש ואת דף השיחה של המשתמש עצמו",
+	"right-delete-usersubpages": "יכולת למחוק דפי משנה של המשתמש עצמו"
+}

@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liuxinyu970226"
+		]
+	},
+	"deleteuserpages-desc": "让用户删除其自己的用户页",
+	"right-delete-rootuserpages": "可以删除自己的用户页和用户讨论页",
+	"right-delete-usersubpages": "可以删除其自己用户页的子页面"
+}

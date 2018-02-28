@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kly"
+		]
+	},
+	"deleteuserpages-desc": "讓使用者刪除自己的使用者頁面",
+	"right-delete-rootuserpages": "可刪除自己的使用者與對話頁面",
+	"right-delete-usersubpages": "可刪除自己的使用者頁面下的子頁面"
+}
