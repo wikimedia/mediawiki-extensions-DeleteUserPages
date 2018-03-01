@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ykhwong"
+		]
+	},
+	"deleteuserpages-desc": "사용자가 자신의 사용자 문서를 삭제할 수 있게 합니다",
+	"right-delete-usersubpages": "자신의 사용자 문서의 하위 문서를 지울 수 있습니다"
+}
