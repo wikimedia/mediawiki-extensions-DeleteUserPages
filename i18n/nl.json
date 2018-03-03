@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mainframe98"
+		]
+	},
+	"deleteuserpages-desc": "Laat gebruikers de eigen gebruikerspagina's verwijderen",
+	"right-delete-rootuserpages": "Kan eigen gebruikers- en gebruikersoverlegpagina verwijderen",
+	"right-delete-usersubpages": "Kan deelpagina's van eigen gebruikerspagina verwijderen"
+}
