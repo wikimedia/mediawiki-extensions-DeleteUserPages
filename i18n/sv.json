@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"WikiPhoenix"
+		]
+	},
+	"right-delete-rootuserpages": "Kan radera egen användarsida och användardiskussionssida",
+	"right-delete-usersubpages": "Kan radera undersidor till sin egen användarsida"
+}

@@ -4,5 +4,7 @@
 			"Eduardo Addad de Oliveira"
 		]
 	},
-	"deleteuserpages-desc": "Deixe os usuários excluir suas próprias páginas de usuário"
+	"deleteuserpages-desc": "Deixe os usuários excluir suas próprias páginas de usuário",
+	"right-delete-rootuserpages": "Pode eliminar as suas próprias páginas de usuário e de discussão de usuário",
+	"right-delete-usersubpages": "Pode eliminar subpáginas da sua própria página de usuário"
 }

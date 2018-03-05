@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ilimanaq29"
+		]
+	},
+	"deleteuserpages-desc": "Povolit uživatelům, aby mohli mazat svoje vlastní uživatelské stránky",
+	"right-delete-rootuserpages": "Mohou odstranit vlastní uživatelskou a diskusní stránku",
+	"right-delete-usersubpages": "Mohou mazat podstránky své vlastní uživatelské stránky"
+}

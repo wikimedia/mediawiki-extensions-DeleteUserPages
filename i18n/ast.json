@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xuacu"
+		]
+	},
+	"deleteuserpages-desc": "Permitir que los usuarios desanicien les páxines d'usuariu propies",
+	"right-delete-rootuserpages": "Puede desaniciar les páxines d'usuariu y alderique d'usuariu propies",
+	"right-delete-usersubpages": "Puede desaniciar les subpáxines de la páxina d'usuariu propia"
+}
