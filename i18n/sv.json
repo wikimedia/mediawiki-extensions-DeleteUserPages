@@ -4,6 +4,7 @@
 			"WikiPhoenix"
 		]
 	},
+	"deleteuserpages-desc": "Låter användare radera sina egna användarsidor",
 	"right-delete-rootuserpages": "Kan radera egen användarsida och användardiskussionssida",
 	"right-delete-usersubpages": "Kan radera undersidor till sin egen användarsida"
 }
