@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Ilimanaq29",
-			"Matěj Suchánek"
+			"Matěj Suchánek",
+			"Mormegil"
 		]
 	},
 	"deleteuserpages-desc": "Povolit uživatelům, aby mohli mazat svoje vlastní uživatelské stránky",
-	"right-delete-rootuserpages": "Oprávnění odstranit vlastní uživatelskou a diskusní stránku",
-	"right-delete-usersubpages": "Oprávnění mazat podstránky své vlastní uživatelské stránky"
+	"right-delete-rootuserpages": "Smazání vlastní uživatelské a diskusní stránky",
+	"right-delete-usersubpages": "Mazání podstránek své vlastní uživatelské stránky"
 }
