@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hedda"
+		]
+	},
+	"deleteuserpages-desc": "Kullanıcıların kendi kullanıcı sayfalarını silmesine izin verin",
+	"right-delete-rootuserpages": "Kendi kullanıcı ve kullanıcı mesaj sayfasını silebilir",
+	"right-delete-usersubpages": "Kendi kullanıcı sayfasının alt sayfalarını silebilir"
+}
