@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Banjo"
+		]
+	},
+	"deleteuserpages-desc": "Permitir que os usuarios eliminen as súas propias páxinas de usuario",
+	"right-delete-rootuserpages": "Pode eliminar a súa propia páxina de usuario e de conversa de usuario",
+	"right-delete-usersubpages": "Pode eliminar subpáxinas da súa propia páxina de usuario"
+}
