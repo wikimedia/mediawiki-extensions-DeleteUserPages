@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Yusuke1109"
+			"Yusuke1109",
+			"Shirayuki"
 		]
 	},
 	"deleteuserpages-desc": "利用者が自分の利用者ページを削除できるようにする",
-	"right-delete-rootuserpages": "自分の利用者ページとトークページを削除できます",
-	"right-delete-usersubpages": "自分の利用者ページのサブページを削除できます"
+	"right-delete-rootuserpages": "自身の利用者ページとトークページを削除",
+	"right-delete-usersubpages": "自身の利用者ページの下位ページを削除"
 }
