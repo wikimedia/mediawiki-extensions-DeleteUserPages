@@ -5,6 +5,8 @@
 		]
 	},
 	"deleteuserpages-desc": "Let users delete their own user pages",
+	"action-delete-rootuserpages": "can delete own user and user talk page",
 	"right-delete-rootuserpages": "Can delete own user and user talk page",
+	"action-delete-usersubpages": "can delete subpages of their own user page",
 	"right-delete-usersubpages": "Can delete subpages of their own user page"
 }
