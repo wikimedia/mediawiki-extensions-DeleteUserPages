@@ -2,10 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Hakim",
-			"ديفيد"
+			"ديفيد",
+			"Meno25"
 		]
 	},
 	"deleteuserpages-desc": "السماح للمستخدمين بحذف صفحاتهم",
+	"action-delete-rootuserpages": "حذف صفحة المستخدم وصفحة النقاش الخاصة بك",
 	"right-delete-rootuserpages": "يمكن حذف صفحة المستخدم ونقاش المستخدم الخاصة",
+	"action-delete-usersubpages": "حذف الصفحات الفرعية لصفحة المستخدم الشخصية",
 	"right-delete-usersubpages": "يمكن حذف صفحات فرعيه من صفحه المستخدم الخاصة"
 }
