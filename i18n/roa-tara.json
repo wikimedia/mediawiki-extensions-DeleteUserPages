@@ -5,6 +5,8 @@
 		]
 	},
 	"deleteuserpages-desc": "Face scangellà a le utinde le probbie pàggene",
+	"action-delete-rootuserpages": "puè scangellà 'a pàgena toje e quedde de le 'ngazzaminde",
 	"right-delete-rootuserpages": "Puè scangellà 'a pàgene utende e quedde de le 'ngazzaminde",
+	"action-delete-usersubpages": "puè scangellà le sottepàggene d'a pàgena toje",
 	"right-delete-usersubpages": "Puè scangellà le sottepàggene d'a pàgene utende"
 }
