@@ -5,6 +5,7 @@
 		]
 	},
 	"deleteuserpages-desc": "Låter användare radera sina egna användarsidor",
+	"action-delete-rootuserpages": "kunna radera din egen användar- och användardiskussionssida",
 	"right-delete-rootuserpages": "Kan radera egen användarsida och användardiskussionssida",
 	"right-delete-usersubpages": "Kan radera undersidor till sin egen användarsida"
 }
