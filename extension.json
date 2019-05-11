@@ -22,7 +22,7 @@
 		]
 	},
 	"AutoloadClasses": {
-		"DeleteUserPages": "DeleteUserPages.php"
+		"DeleteUserPages": "includes/DeleteUserPages.php"
 	},
 	"AvailableRights": [
 		"delete-rootuserpages",
