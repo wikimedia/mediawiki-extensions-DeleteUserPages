@@ -6,7 +6,7 @@
 	},
 	"deleteuserpages-desc": "Deixe os usuários excluir suas próprias páginas de usuário",
 	"action-delete-rootuserpages": "pode excluir o próprio usuário e a página de discussão do usuário",
-	"right-delete-rootuserpages": "Pode eliminar as suas próprias páginas de usuário e de discussão de usuário",
+	"right-delete-rootuserpages": "Excluir usuário próprio e página de discussão do usuário",
 	"action-delete-usersubpages": "pode excluir subpáginas de sua própria página de usuário",
-	"right-delete-usersubpages": "Pode eliminar subpáginas da sua própria página de usuário"
+	"right-delete-usersubpages": "Excluir subpáginas de sua própria página de usuário"
 }

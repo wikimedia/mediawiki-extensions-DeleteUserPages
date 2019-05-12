@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Gomoko",
-			"Pols12"
+			"Pols12",
+			"Epok"
 		]
 	},
 	"deleteuserpages-desc": "Laisser les utilisateurs supprimer leurs propres pages utilisateur",
 	"action-delete-rootuserpages": "avoir l’autorisation de supprimer vos propres pages d’utilisateur et pages de discussion d’utilisateur",
-	"right-delete-rootuserpages": "Pouvoir supprimer ses propres pages utilisateur et discussion utilisateur",
+	"right-delete-rootuserpages": "Supprimer ses propres pages utilisateur et discussion utilisateur",
 	"action-delete-usersubpages": "avoir l’autorisation de supprimer des sous-pages de votre propre page d’utilisateur",
-	"right-delete-usersubpages": "Pouvoir supprimer les sous-pages de sa propre page utilisateur"
+	"right-delete-usersubpages": "Supprimer les sous-pages de sa propre page utilisateur"
 }

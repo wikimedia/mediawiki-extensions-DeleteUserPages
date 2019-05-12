@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Liuxinyu970226",
-			"佛壁灯"
+			"佛壁灯",
+			"D41D8CD98F"
 		]
 	},
 	"deleteuserpages-desc": "让用户删除其自己的用户页",
 	"action-delete-rootuserpages": "可删除自己的用户页及讨论页",
-	"right-delete-rootuserpages": "可以删除自己的用户页和用户讨论页",
+	"right-delete-rootuserpages": "删除自己的用户页和用户讨论页",
 	"action-delete-usersubpages": "可删除自己的用户页子页面",
-	"right-delete-usersubpages": "可以删除其自己用户页的子页面"
+	"right-delete-usersubpages": "删除其自己用户页的子页面"
 }
