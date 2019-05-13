@@ -5,6 +5,6 @@
 		]
 	},
 	"deleteuserpages-desc": "Léisst Benotzer hir eege Benotzersäite läschen",
-	"right-delete-rootuserpages": "Däerf déi eege Benotzer- a Benotzer-Diskussiouns-Säit läschen",
-	"right-delete-usersubpages": "Däerf Ënnersäite vu senger eegener Benotzersäit läschen"
+	"right-delete-rootuserpages": "Eege Benotzer- a Benotzer-Diskussiouns-Säit läschen",
+	"right-delete-usersubpages": "Ënnersäite vu senger eegener Benotzersäit läschen"
 }
