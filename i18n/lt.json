@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Naktis"
+		]
+	},
+	"action-delete-rootuserpages": "ištrinti savo vartotojo ir vartotojo aptarimo puslapį",
+	"action-delete-usersubpages": "ištrinti savo naudotojo puslapius"
+}
