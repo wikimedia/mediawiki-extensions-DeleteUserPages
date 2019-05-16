@@ -3,10 +3,12 @@
 		"authors": [
 			"Ilimanaq29",
 			"Matěj Suchánek",
-			"Mormegil"
+			"Mormegil",
+			"Ján Kepler"
 		]
 	},
 	"deleteuserpages-desc": "Povolit uživatelům, aby mohli mazat svoje vlastní uživatelské stránky",
+	"action-delete-rootuserpages": "smazat vlastní uživatelskou a diskusní stránku",
 	"right-delete-rootuserpages": "Smazání vlastní uživatelské a diskusní stránky",
 	"right-delete-usersubpages": "Mazání podstránek své vlastní uživatelské stránky"
 }
