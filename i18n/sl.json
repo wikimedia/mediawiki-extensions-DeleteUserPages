@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Janezdrilc"
+			"Janezdrilc",
+			"Dbc334"
 		]
 	},
 	"deleteuserpages-desc": "Dovoli uporabnikom izbrisati lastne uporabniške strani",
-	"right-delete-rootuserpages": "Lahko izbrišejo svojo uporabniško stran in stran uporabniškega pogovora",
-	"right-delete-usersubpages": "Lahko izbrišejo podstrani svoje lastne uporabniške strani"
+	"right-delete-rootuserpages": "Brisanje svoje uporabniške strani in strani uporabniškega pogovora",
+	"right-delete-usersubpages": "Brisanje podstrani svoje lastne uporabniške strani"
 }
