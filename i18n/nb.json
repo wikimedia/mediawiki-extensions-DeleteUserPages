@@ -5,6 +5,8 @@
 		]
 	},
 	"deleteuserpages-desc": "Lar brukere slette sine egne brukersider",
-	"right-delete-rootuserpages": "Kan slette sin egen bruker- og brukerdiskusjonsside",
-	"right-delete-usersubpages": "Kan slette undersider av sin egen brukerside"
+	"action-delete-rootuserpages": "slette din egen bruker- og brukerdiskusjonssider",
+	"right-delete-rootuserpages": "Slette sin egen bruker- og brukerdiskusjonsside",
+	"action-delete-usersubpages": "slette undersider av din egen brukerside",
+	"right-delete-usersubpages": "Slette undersider av sin egen brukerside"
 }
