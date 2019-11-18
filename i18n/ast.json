@@ -5,6 +5,8 @@
 		]
 	},
 	"deleteuserpages-desc": "Permitir que los usuarios desanicien les páxines d'usuariu propies",
-	"right-delete-rootuserpages": "Puede desaniciar les páxines d'usuariu y alderique d'usuariu propies",
-	"right-delete-usersubpages": "Puede desaniciar les subpáxines de la páxina d'usuariu propia"
+	"action-delete-rootuserpages": "desaniciar la páxina d'usuariu y la páxina d'alderique propies",
+	"right-delete-rootuserpages": "Desaniciar les páxines d'usuariu y alderique d'usuariu propies",
+	"action-delete-usersubpages": "desaniciar les subpáxines de la páxina d'usuariu propia",
+	"right-delete-usersubpages": "Desaniciar les subpáxines de la páxina d'usuariu propia"
 }
