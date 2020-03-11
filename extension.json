@@ -17,9 +17,7 @@
 		]
 	},
 	"Hooks": {
-		"TitleQuickPermissions": [
-			"DeleteUserPages::onTitleQuickPermissions"
-		]
+		"TitleQuickPermissions": "DeleteUserPages::onTitleQuickPermissions"
 	},
 	"AutoloadClasses": {
 		"DeleteUserPages": "includes/DeleteUserPages.php"
