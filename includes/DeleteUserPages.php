@@ -9,6 +9,8 @@
  * @link https://www.mediawiki.org/wiki/Extension:DeleteUserPages Documentation
  */
 
+use MediaWiki\MediaWikiServices;
+
 class DeleteUserPages {
 	public static function onTitleQuickPermissions( $title, $user, $action, &$errors, $doExpensiveQueries, $short ) {
 		if ( $action !== 'delete' || count( $errors ) > 0 ) {
@@ -20,10 +22,19 @@ class DeleteUserPages {
 		$root = $title->getRootText();
 		$text = $title->getText();
 
+		if ( class_exists( 'MediaWiki\Permissions\PermissionManager' ) ) {
+			// MW 1.33+
+			$userCan = MediaWikiServices::getInstance()
+				->getPermissionManager()
+				->userCan( 'edit', $user, $title );
+		} else {
+			$userCan = $title->userCan( 'edit' );
+		}
+
 		if (
 			( $ns === NS_USER || $ns === NS_USER_TALK )
 			&& $userName === $root
-			&& $title->userCan( 'edit' )
+			&& $userCan
 		) {
 			if ( $root === $text && $user->isAllowed( 'delete-rootuserpages' ) ) {
 				return false;
