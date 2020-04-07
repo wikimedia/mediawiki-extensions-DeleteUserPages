@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Vlad5250",
 			"1233qwer1234qwer4",
-			"Movses"
+			"Movses",
+			"Vlad5250"
 		]
 	},
 	"deleteuserpages-desc": "Позволяет участникам удалять собственные страницы участников",
