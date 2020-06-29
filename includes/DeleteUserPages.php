@@ -12,6 +12,16 @@
 use MediaWiki\MediaWikiServices;
 
 class DeleteUserPages {
+
+	/**
+	 * @param Title $title
+	 * @param User $user
+	 * @param string $action
+	 * @param array &$errors
+	 * @param bool $doExpensiveQueries
+	 * @param bool $short
+	 * @return bool
+	 */
 	public static function onTitleQuickPermissions( $title, $user, $action, &$errors, $doExpensiveQueries, $short ) {
 		if ( $action !== 'delete' || count( $errors ) > 0 ) {
 			return true;
